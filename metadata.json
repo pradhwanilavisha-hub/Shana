@@ -1,0 +1,6 @@
+{
+  "name": "Shana's Boutique",
+  "description": "Women's ready-made clothing boutique in Siliguri, West Bengal featuring crop tops, garara, sharara, gowns and ready-made garments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
